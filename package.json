@@ -1,17 +1,17 @@
 {
   "name": "nlw",
   "version": "1.0.0",
-  "description": "Repositório com as Aulas e desafios do Next Level Week",
+  "description": "Repositório do Next Level Week, 1º edição com o projeto; Ecoleta",
   "main": "src/server.js",
   "scripts": {
     "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lucasrodrigues77/ecoleta-nlw"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lucas Rodrigues",
   "license": "ISC",
   "bugs": {
     "url": ""
